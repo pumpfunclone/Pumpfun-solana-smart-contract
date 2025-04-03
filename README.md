@@ -1,26 +1,16 @@
-## Pump.fun clone: Pumpfun smart contract for pump.fun fork, implemented all main functionalities of pump fun.
-This pumpfun smart contract forked pump.fun, but it's developed to give basic understanding about pump fun. 
-To get whole part of smart contract and backend & frontend, feel free to reach out of me[Whatsapp: https://wa.me/13137423660, Telegram: https://t.me/DevCutup]
-You can also get frontend and backend repository from my github.
+## Pump.fun clone: coinfun smart contract for pump.fun fork, implemented all main functionalities of pump fun and more.
 
 
-program address
-https://solscan.io/account/3CCu4f3hXKne4i5uE7DHkiA9o4oqeAAFBNxR3BfYLivX?cluster=devnet
+- Config
+https://solscan.io/tx/3tn4zkNQyNXUE19cdJm4C5nDSSJADqQbgNigNLBVGVyrLdLMqjLAS7ocKrMF6oMAfbSJWRxuUzzjtseujviaHzoh?cluster=devnet
 
-config transaction
-https://solscan.io/tx/9977V82eQoGq1GLmcabizpLeVwtG6MjpEyDVvikG4J7VhcawwQ7uxEtJVumj1nCs5nsfDYTFRcRv4pvPyWRFh3a?cluster=devnet
+- Launch
+https://solscan.io/tx/2rML2baX6XDMrWWqhMHTF2eFdc9JHwcggZW1VeSsSmC4nBZxTxY1RDc8Y1YYGHpn1tXWzBwuT33GgwGkVxhobdPA?cluster=devnet
 
-token launch tx
-https://solscan.io/tx/2Yc9N9oDQKkh2U89i3r7ciBJEUfSWAeVTVvmrLKs15wfJg1kK4Ax1J8uBxuBSExcQApCQBMw8nzxXLQrE14Ghn61?cluster=devnet
+- Swap
+https://solscan.io/tx/4Cf6optfe23gXZx7cAjnbWZ2bysmkfcCrmge9ZswPSxxkGYfS31LUA4fydPY8XmWT3F876c7VuArzW25oGHhc54F?cluster=devnet
+https://solscan.io/tx/32xWFFzeGZznyVpjgrnEKgmx57Z17dptkKJpahUfgCPdVobrCcxL1ssXjNyDAFu1eAYWqQuc37AAQWQTBBFScpvW?cluster=devnet
+https://solscan.io/tx/4ULnK76CNxJwCk7awJxtoTjwAhDJRJMjmfVQukWFhHTC17D5sA9DiGCV9aQVKwH5cCcxYFnbzsXiedFE6MHUJwt5?cluster=devnet
 
-swap tx
-https://solscan.io/tx/3z9puJ6Jcum1iQ9eA5q6hxoaVAKyKGkFFJuwqBjcrmgrA6xbpiLxwB5GDpD3cD7Wzuo48NViAZKKT9u72N6QSxPS?cluster=devnet
-
-curve reach tx
-https://solscan.io/tx/2QtdKZrhYuwJtWrd7dhja8mnNqZSmR4qbpo9iSLnrhkZADF3zzm8DojYVisvVaiGAkgmoU4ocSyo65EewJkpjvNo?cluster=devnet
-
-withdraw tx
-https://solscan.io/tx/21VnRkwjGSCgUJY4KUtaNf2Sc13BUpjXp8nCmMhUFn8PPFNMkFywJFY79ZzhdVhuQUwSjmhAbyuhQutamw8Fj27u?cluster=devnet
-
-
-https://solscan.io/tx/5DunqPfmfuYs3cVDE7SowJ9F2jKtdq7t3E3yP5W63RBGgcoNdVPDQ72asotg7fjnEEFATfQuiwPRGc7xqvW3iF64?cluster=custom&customUrl=devnet
+- Migration
+https://solscan.io/tx/3C8RYgSna4fjwuE1udaQtKrjDZVnDShTiUm99bbugpf4KJybQ8bNEgAyGRJG9aVEvKweVFTghPrTcaqMcrvgfuoD?cluster=devnet
